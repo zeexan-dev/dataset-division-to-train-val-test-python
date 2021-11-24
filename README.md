@@ -1,5 +1,5 @@
 # dataset-division-to-train-val-test-python
-python script for diving image data to train test and val
+python script for divding image data to train test and val
 
 If you have a image dataset in the following structure of directories
 - dataset
