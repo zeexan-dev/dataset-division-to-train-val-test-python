@@ -1,7 +1,7 @@
 # dataset-division-to-train-val-test-python
 python script for dividing image data to train test and val
 
-If you have a image dataset in the following structure of directories
+If you have an image dataset in the following structure of directories
 - dataset
   - label_1 directory
   - label_2 directory
